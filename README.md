@@ -1,6 +1,5 @@
 
 ## Website voor portfolio Miel Kenens
 
-Uitgewerkt op basis van https://startbootstrap.com/themes/creative
-
+De website is terug te vinden op https://mielkenens.github.io/dist/index.html
 
